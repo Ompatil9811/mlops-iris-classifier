@@ -1,4 +1,4 @@
-﻿# Iris Classifier
+﻿#  MLOps Iris Classifier Version A+B (Resolved)
 
 This README reflects the resolved merge between the Version A and Version B demo branches.
 
