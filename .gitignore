@@ -1,9 +1,8 @@
 .venv-mlflow/
-# =========================================================
-# MLflow
-# =========================================================
+**/__pycache__/
+*.py[cod]
+.coverage
 mlruns/
 mlflow.db
 mlartifacts/
 confusion_matrix_*.png
-.coverage
