@@ -6,3 +6,10 @@ mlruns/
 mlflow.db
 mlartifacts/
 confusion_matrix_*.png
+# Generated test reports
+test-results.xml
+coverage.xml
+
+# Generated pipeline data
+data/raw/
+data/processed/
