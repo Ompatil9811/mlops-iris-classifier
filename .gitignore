@@ -6,3 +6,4 @@ mlruns/
 mlflow.db
 mlartifacts/
 confusion_matrix_*.png
+.coverage
